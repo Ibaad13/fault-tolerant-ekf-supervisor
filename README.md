@@ -19,6 +19,7 @@ This repository accompanies a study on resilient multi-sensor navigation for UAV
 operating in adversarial or degraded-sensor conditions.
 
 > 📽️ **See it in action** — jump straight to the [animated trajectory results](#-results) below.
+> I haven't uploaded anything other than results as I'm currently writting a conference paper on it, once it is accepted I will upload all the code for the filters, supervisor, drone dynamics,trajectory and other models.
 
 
 ---
@@ -32,8 +33,8 @@ operating in adversarial or degraded-sensor conditions.
 5. [The Supervisor — Context-Aware Adaptive Confidence-Weighted Fusion](#the-supervisor--context-aware-adaptive-confidence-weighted-fusion)
 6. [Project Structure](#project-structure)
 7. [Getting Started](#getting-started)
-8. [📊 Results](#-results)
-9. [🎬 Simulation Animations](#-simulation-animations)
+8. [Results](#-results)
+9. [Simulation Animations](#-simulation-animations)
 10. [Citation / Acknowledgements](#citation--acknowledgements)
 
 ---
