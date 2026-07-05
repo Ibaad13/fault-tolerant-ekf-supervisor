@@ -1,8 +1,0 @@
-Ablation,Variant,RMSE_after_m,Consistency_3sigma_%
-Filter comparison,Supervisor,1.0333704524484075,99.78333333333333
-Filter comparison,GPS-only,1.3825203518482065,100.0
-Filter comparison,RSSI-only,1.3556846245474619,98.28333333333333
-Gating,With gating,1.0333704524484075,99.78333333333333
-Gating,Without gating,17.155318092804542,72.91666666666666
-Blending,With blending (INV_COV),1.0333704524484075,99.78333333333333
-Blending,Without blending (GPS-primary),1.0196480300194855,99.74166666666667
