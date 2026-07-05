@@ -19,8 +19,9 @@ This repository accompanies a study on resilient multi-sensor navigation for UAV
 operating in adversarial or degraded-sensor conditions.
 
 > 📽️ **See it in action** — jump straight to the [animated trajectory results](#-results) below.
-> > [!WARNING]
-> I haven't uploaded complete python code as I m currently preparing the paper for a conference, only results are shared here.
+> 
+> [!WARNING]
+> I haven't uploaded complete Python code as I am currently preparing the paper for a conference; only results are shared here.
 
 
 ---
