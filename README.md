@@ -21,8 +21,8 @@ operating in adversarial or degraded-sensor conditions.
 
 > [!WARNING]
 > I haven't uploaded complete Python code as I am currently preparing the paper for a conference; only results are shared here.
-> 
-> 📽️ **See it in action** — jump straight to the [animated trajectory results](#-results) below.
+
+📽️ **See it in action** — jump straight to the [animated trajectory results](#-results) below.
 
 
 
