@@ -18,9 +18,10 @@ guaranteed minimum voice for RSSI even while GPS looks perfectly healthy.
 This repository accompanies a study on resilient multi-sensor navigation for UAVs
 operating in adversarial or degraded-sensor conditions.
 
-### ⚠️ Disclaimer
-**Use at your own risk.** This software is provided as-is. Please ensure you have backed up your data before running these scripts.
 > 📽️ **See it in action** — jump straight to the [animated trajectory results](#-results) below.
+>
+> > [!WARNING]
+> I haven't uploaded complete python code as I m currently preparing the paper for a conference, only results are shared here.
 
 
 ---
