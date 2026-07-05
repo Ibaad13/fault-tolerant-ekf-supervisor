@@ -18,6 +18,8 @@ guaranteed minimum voice for RSSI even while GPS looks perfectly healthy.
 This repository accompanies a study on resilient multi-sensor navigation for UAVs
 operating in adversarial or degraded-sensor conditions.
 
+### ⚠️ Disclaimer
+**Use at your own risk.** This software is provided as-is. Please ensure you have backed up your data before running these scripts.
 > 📽️ **See it in action** — jump straight to the [animated trajectory results](#-results) below.
 
 
@@ -357,6 +359,7 @@ All of the above is configurable from one place, [`config.SupervisorConfig`](con
 thresholds, and DR arming — with no changes needed to the fusion logic itself.
 
 ---
+
 
 ## Project Structure
 
